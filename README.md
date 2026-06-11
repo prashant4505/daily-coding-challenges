@@ -43,7 +43,6 @@ daily-coding-challenges/
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
 | 01 | First Non-Repeating Character | ✅      |
-| -- | ----------------------------- | ------ |
 | 02 | longest substring without repeating characters. | ✅      |
 
 ## Getting Started
