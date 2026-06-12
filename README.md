@@ -44,7 +44,7 @@ daily-coding-challenges/
 | -- | ----------------------------- | ------ |
 | 01 | First Non-Repeating Character | ✅      |
 | 02 | longest substring without repeating characters. | ✅      |
-
+| ... | ... | ✅      |
 ## Getting Started
 
 Clone the repository:
