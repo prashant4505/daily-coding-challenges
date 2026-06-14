@@ -43,8 +43,12 @@ daily-coding-challenges/
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
 | 01 | First Non-Repeating Character | ✅      |
-| 02 | longest substring without repeating characters. | ✅      |
-| ... | ... | ✅      |
+| 02 | Longest Substring Without Repeating Characters | ✅      |
+| 03 | Valid Palindrome | ✅      |
+| 04 | Two Sum | ✅      |
+| 05 | Valid Anagram | ✅      |
+| 06 | Contains Duplicate | ✅      |
+
 ## Getting Started
 
 Clone the repository:
