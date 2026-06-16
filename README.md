@@ -48,6 +48,8 @@ daily-coding-challenges/
 | 04 | Two Sum | ✅      |
 | 05 | Valid Anagram | ✅      |
 | 06 | Contains Duplicate | ✅      |
+| 07 | Best Time to Buy and Sell Stock | ✅      |
+| 08 | Move Zeroes | ✅      |
 
 ## Getting Started
 
