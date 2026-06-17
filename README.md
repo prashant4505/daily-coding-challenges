@@ -50,6 +50,7 @@ daily-coding-challenges/
 | 06 | Contains Duplicate | ✅      |
 | 07 | Best Time to Buy and Sell Stock | ✅      |
 | 08 | Move Zeroes | ✅      |
+| 09 | Maximum Consecutive Ones | ✅      |
 
 ## Getting Started
 
