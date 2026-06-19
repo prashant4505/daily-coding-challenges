@@ -51,6 +51,7 @@ daily-coding-challenges/
 | 07 | Best Time to Buy and Sell Stock | ✅      |
 | 08 | Move Zeroes | ✅      |
 | 09 | Maximum Consecutive Ones | ✅      |
+| 10 | Swap Two Numbers Without Third Variable | ✅      |
 
 ## Getting Started
 
