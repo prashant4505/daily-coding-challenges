@@ -52,6 +52,7 @@ daily-coding-challenges/
 | 08 | Move Zeroes | ✅      |
 | 09 | Maximum Consecutive Ones | ✅      |
 | 10 | Swap Two Numbers Without Third Variable | ✅      |
+| 11 | Remove Duplicates from Sorted Array | ✅      |
 
 ## Getting Started
 
