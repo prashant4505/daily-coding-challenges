@@ -54,6 +54,7 @@ daily-coding-challenges/
 | 10 | Remove Duplicates from Sorted Array | ✅      |
 | 11 | Missing Number | ✅      |
 | 12 | Product of Array Except Self | ✅      |
+| 13 | Valid Parentheses using Stack| ✅      |
 
 ## Getting Started
 
