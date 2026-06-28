@@ -55,6 +55,7 @@ daily-coding-challenges/
 | 11 | Missing Number | ✅      |
 | 12 | Product of Array Except Self | ✅      |
 | 13 | Valid Parentheses using Stack| ✅      |
+| 14 | Merge Two Sorted Arrays using Two Pointers| ✅      |
 
 ## Getting Started
 
