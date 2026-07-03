@@ -56,6 +56,7 @@ daily-coding-challenges/
 | 12 | Product of Array Except Self | ✅      |
 | 13 | Valid Parentheses using Stack| ✅      |
 | 14 | Merge Two Sorted Arrays using Two Pointers| ✅      |
+| 15 | Longest Common Prefix using Prefix Reduction | ✅      |
 
 ## Getting Started
 
