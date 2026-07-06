@@ -57,6 +57,7 @@ daily-coding-challenges/
 | 13 | Valid Parentheses using Stack| ✅      |
 | 14 | Merge Two Sorted Arrays using Two Pointers| ✅      |
 | 15 | Longest Common Prefix using Prefix Reduction | ✅      |
+| 16 | Group Anagrams using Hash Map and Character Sorting | ✅      |
 
 ## Getting Started
 
