@@ -59,6 +59,8 @@ daily-coding-challenges/
 | 15 | Longest Common Prefix using Prefix Reduction | ✅      |
 | 16 | Group Anagrams using Hash Map and Character Sorting | ✅      |
 | 17 | Top K Frequent Elements using Frequency Map | ✅      |
+| 18 | Longest Consecutive Sequence using Hash Set | ✅      |
+
 ## Getting Started
 
 Clone the repository:
