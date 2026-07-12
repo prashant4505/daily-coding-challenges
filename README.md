@@ -60,6 +60,7 @@ daily-coding-challenges/
 | 16 | Group Anagrams using Hash Map and Character Sorting | ✅      |
 | 17 | Top K Frequent Elements using Frequency Map | ✅      |
 | 18 | Longest Consecutive Sequence using Hash Set | ✅      |
+| 19 | Find the Duplicate Number using Hash Set | ✅      |
 
 ## Getting Started
 
