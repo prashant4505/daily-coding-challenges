@@ -61,6 +61,8 @@ daily-coding-challenges/
 | 17 | Top K Frequent Elements using Frequency Map | ✅      |
 | 18 | Longest Consecutive Sequence using Hash Set | ✅      |
 | 19 | Find the Duplicate Number using Hash Set | ✅      |
+| 20 | Intersection of Two Arrays using Hash Set | ✅      |
+
 
 ## Getting Started
 
