@@ -40,29 +40,15 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
+25 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
 | 01 | First Non-Repeating Character | ✅      |
-| 02 | Longest Substring Without Repeating Characters | ✅      |
-| 03 | Valid Palindrome | ✅      |
 | 04 | Two Sum | ✅      |
-| 05 | Valid Anagram | ✅      |
-| 06 | Contains Duplicate | ✅      |
-| 07 | Best Time to Buy and Sell Stock | ✅      |
-| 08 | Move Zeroes | ✅      |
-| 09 | Maximum Consecutive Ones | ✅      |
-| 10 | Remove Duplicates from Sorted Array | ✅      |
-| 11 | Missing Number | ✅      |
-| 12 | Product of Array Except Self | ✅      |
-| 13 | Valid Parentheses using Stack| ✅      |
-| 14 | Merge Two Sorted Arrays using Two Pointers| ✅      |
-| 15 | Longest Common Prefix using Prefix Reduction | ✅      |
 | 16 | Group Anagrams using Hash Map and Character Sorting | ✅      |
-| 17 | Top K Frequent Elements using Frequency Map | ✅      |
-| 18 | Longest Consecutive Sequence using Hash Set | ✅      |
-| 19 | Find the Duplicate Number using Hash Set | ✅      |
-| 20 | Intersection of Two Arrays using Hash Set | ✅      |
-| __ | _________________________________________ | ✅      |
+| 21 | Binary Search | ✅      |
+| 25 | Maximum Subarray using Kadane's Algorithm | ✅      |
 
 
 ## Getting Started
