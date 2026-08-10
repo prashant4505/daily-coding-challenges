@@ -40,7 +40,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-26 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+27 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -50,6 +50,7 @@ daily-coding-challenges/
 | 21 | Binary Search | ✅      |
 | 25 | Maximum Subarray using Kadane's Algorithm | ✅      |
 | 26 | Merge Intervals | ✅      |
+| 27 | Insert Interval | ✅      |
 
 
 ## Getting Started
