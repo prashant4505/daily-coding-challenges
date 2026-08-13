@@ -40,7 +40,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-29 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+30 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -53,6 +53,7 @@ daily-coding-challenges/
 | 27 | Insert Interval | ✅      |
 | 28 | Non-overlapping Intervals | ✅      |
 | 29 | Meeting Rooms | ✅      |
+| 30 | Meeting Rooms II | ✅      |
 
 
 ## Getting Started
