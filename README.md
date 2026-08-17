@@ -40,7 +40,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-30 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+31 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -54,6 +54,7 @@ daily-coding-challenges/
 | 28 | Non-overlapping Intervals | ✅      |
 | 29 | Meeting Rooms | ✅      |
 | 30 | Meeting Rooms II | ✅      |
+| 31 | Kth Largest Element in an Array using a Min-Heap | ✅      |
 
 
 ## Getting Started
