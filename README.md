@@ -19,6 +19,7 @@ Each solution is written with a focus on:
 
 * String Manipulation
 * Arrays
+* Linked Lists
 * Algorithms
 * Data Structures
 * Mathematical Problems
@@ -40,7 +41,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-31 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+32 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -55,6 +56,7 @@ daily-coding-challenges/
 | 29 | Meeting Rooms | ✅      |
 | 30 | Meeting Rooms II | ✅      |
 | 31 | Kth Largest Element in an Array using a Min-Heap | ✅      |
+| 32 | Reverse Linked List | ✅      |
 
 
 ## Getting Started
