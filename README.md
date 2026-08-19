@@ -41,7 +41,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-32 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+33 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -57,6 +57,7 @@ daily-coding-challenges/
 | 30 | Meeting Rooms II | ✅      |
 | 31 | Kth Largest Element in an Array using a Min-Heap | ✅      |
 | 32 | Reverse Linked List | ✅      |
+| 33 | Linked List Cycle using Floyd's Cycle Detection Algorithm | ✅      |
 
 
 ## Getting Started
