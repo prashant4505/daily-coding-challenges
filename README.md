@@ -41,7 +41,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-35 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+36 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -60,6 +60,7 @@ daily-coding-challenges/
 | 33 | Linked List Cycle using Floyd's Cycle Detection Algorithm | ✅      |
 | 34 | Linked List Cycle II using Floyd's Cycle Detection Algorithm | ✅      |
 | 35 | Merge Two Sorted Lists | ✅      |
+| 36 | Remove Nth Node From End of List | ✅      |
 
 
 ## Getting Started
