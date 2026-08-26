@@ -41,7 +41,7 @@ daily-coding-challenges/
 
 ## Completed Challenges
 
-37 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
+38 challenges solved so far. Every solution lives in the repository root as a numbered `.php` file — browse the directory for the full list. A few examples:
 
 | #  | Challenge                     | Status |
 | -- | ----------------------------- | ------ |
@@ -62,6 +62,7 @@ daily-coding-challenges/
 | 35 | Merge Two Sorted Lists | ✅      |
 | 36 | Remove Nth Node From End of List | ✅      |
 | 37 | Add Two Numbers | ✅      |
+| 38 | Swap Nodes in Pairs | ✅      |
 
 
 ## Getting Started
